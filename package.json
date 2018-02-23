@@ -1,0 +1,27 @@
+{
+  "name": "chnk",
+  "version": "1.0.0",
+  "description": "split a binary data stream of buffers into equal size chunks",
+  "main": "chnk.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-chnk.git"
+  },
+  "keywords": [
+    "chunk",
+    "buffer",
+    "stream",
+    "chunks",
+    "chunkify",
+    "binary",
+    "bin",
+    "buffers",
+    "split",
+  ],
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-chnk/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-chnk#readme"
+}
